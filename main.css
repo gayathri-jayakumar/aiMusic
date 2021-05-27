@@ -1,0 +1,50 @@
+body{
+    background-size: cover;
+}
+
+.h3{
+    font-family: 'Rye', cursive;
+    font-size: 30px !important;
+    color: rgb(15, 129, 129);
+}
+
+.note{
+    font-family: 'New Rocker', cursive;
+    font-size: 25px !important;
+}
+
+.button{
+    font-family: 'Song Myung', serif;
+    font-size: 23px;
+    margin-bottom: -2px;
+    margin-left: 100px;
+}
+
+.button:hover{
+    font-family: 'Song Myung', serif;
+    color: pink;
+    background-color: purple;
+}
+
+canvas{
+    width: 450px;
+    border: double 3px red;
+    box-shadow: black 5px 5px 18px;
+}
+
+.main{
+    background-color: rgb(192, 88, 88);
+    font-family: 'Original Surfer', cursive;
+}
+
+
+.div{
+    float: left;
+    margin-left: 280px;
+    margin-top: 50px;
+    font-size: 19px;
+}
+#mad{
+    font-family: 'Girassol', cursive;
+    font-size: 30px;
+}
